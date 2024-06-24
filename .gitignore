@@ -2,9 +2,7 @@
 /target/
 
 # Maven artifact metadata
-*.mvn/timing.properties
 .mvn/timing.properties
-.mvn/wrapper/maven-wrapper.properties
 
 # Local Maven repository
 .m2/
@@ -47,12 +45,6 @@ Thumbs.db
 
 # Spring Boot specific
 spring-boot-app.iml
-
-# Optional Maven wrapper files
-mvnw
-mvnw.cmd
-.mvn/wrapper/maven-wrapper.jar
-.mvn/wrapper/maven-wrapper.properties
 
 # Cache files for dependency managers
 **/node_modules/
